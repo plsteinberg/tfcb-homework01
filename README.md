@@ -11,11 +11,13 @@ This is the first homework for MCB 536
 
 ### Organization 
 
+```
 project_name
   |-- data/
   |-- src/
   |-- images/
   |-- README.md
+```
 
  **Images**
  - [casent0172345_rhytidoponera_metallica.jpg](https://github.com/plsteinberg/tfcb-homework01/blob/main/images/casent0172345_rhytidoponera_metallica.jpg)
