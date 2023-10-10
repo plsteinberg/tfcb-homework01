@@ -12,7 +12,7 @@ This is the first homework for MCB 536
 ### Organization 
 
 ```
-project_name
+tfcb-homework01
   |-- data/
   |-- src/
   |-- images/
