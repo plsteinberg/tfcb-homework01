@@ -21,7 +21,7 @@ project_name
  - [casent0172345_rhytidoponera_metallica.jpg](https://github.com/plsteinberg/tfcb-homework01/blob/main/images/casent0172345_rhytidoponera_metallica.jpg)
  - [casent0191696_camponotus_darwinii.jpg](https://github.com/plsteinberg/tfcb-homework01/blob/main/images/casent0191696_camponotus_darwinii.jpg)
  - [casent0901788_acanthomyrex_ferox.jpg](https://github.com/plsteinberg/tfcb-homework01/blob/main/images/casent0901788_acanthomyrex_ferox.jpg)
- - [casent0906296_cataglyphis_fortis.jpg](https://github.com/plsteinberg/tfcb-homework01/tree/main/images#:~:text=3%20days%20ago-,casent0906296_cataglyphis_fortis.jpg)
+ - [casent0906296_cataglyphis_fortis.jpg](https://github.com/plsteinberg/tfcb-homework01/blob/main/images/casent0906296_cataglyphis_fortis.jpg)
 
  **data**
  - `survey_data.xlsx`
